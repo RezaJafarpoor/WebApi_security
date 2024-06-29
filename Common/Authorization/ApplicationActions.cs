@@ -1,6 +1,6 @@
 ﻿namespace Common.Authorization;
 
-public static class AppAction
+public static class ApplicationActions
 {
     public const string Create = nameof(Create);
     public const string Read = nameof(Read);

@@ -1,6 +1,6 @@
 ﻿namespace Common.Authorization;
 
-public static class AppFeature
+public static class ApplicationFeatures
 {
     public const string Employees = nameof(Employees);
     public const string Users = nameof(Users);
